@@ -203,6 +203,7 @@
     position: absolute;
     top: -30px;
     right: 0;
+    z-index: 2;
 }
 .header__notify::after {
     content: "";
